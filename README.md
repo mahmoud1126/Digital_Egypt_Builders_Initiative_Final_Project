@@ -149,6 +149,6 @@ Automatically generates rich HTML reports with:
 
 | Ziad Mohammed | Mahmoud Ibrahim |
 | :--- | :--- |
-| 📧 ziadmohammed7@gmail.com | 📧 mahmoudibrahim1469@gmail.com |
+| 📧 mohammedziad118@gmail.com | 📧 mahmoudibrahim1469@gmail.com |
 | 🌐 [GitHub: ziadmohammed7](https://github.com/ziadmohammed7) | 🌐 [GitHub: mahmoud1126](https://github.com/mahmoud1126) |
 
